@@ -25,6 +25,6 @@ def main(input_folder, output_folder):
     print(f"Files converted and saved to {output_folder}")
 
 if __name__ == "__main__":
-    input_folder = "/Users/stavrosdidakis/Downloads/CONVERT/in"
-    output_folder = "/Users/stavrosdidakis/Downloads/CONVERT/out"
+    input_folder = "/InputFolder"
+    output_folder = "/OutputFolder"
     main(input_folder, output_folder)
